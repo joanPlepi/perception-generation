@@ -1,0 +1,14 @@
+data/**
+scripts/**
+**/notebooks/**
+**/.ipynb_checkpoints/**
+**/__pycache__/**
+src/stanford*
+results/**
+logs/**
+**/runs/**
+src/annotations/**
+.vscode/**
+**/wandb/**
+**/flant5-test/**
+**/gpt-test/**
