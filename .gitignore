@@ -1,5 +1,4 @@
 data/**
-scripts/**
 **/notebooks/**
 **/.ipynb_checkpoints/**
 **/__pycache__/**
